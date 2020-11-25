@@ -25,6 +25,7 @@ async def help(ctx):
 
   embed.add_field(name="d.d", value="Converts message from English to Dutch", inline=False)
   embed.add_field(name="d.e", value="Converteert bericht van Nederlands naar Engels", inline=False)
+  embed.add_field(name="d.say", value="repeats a word or message", inline=False)
   await ctx.send(embed=embed)
 
 @bot.command()#TRANSLATES TO DUTCH
