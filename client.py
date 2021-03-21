@@ -19,4 +19,4 @@ async def on_message(message):
     if message.content == 'bruh':
         await message.channel.send('bruh')
 
-client.run('Nzc3MTA4NTAxOTM5NzQ4ODY2.X6-osA.y7dvDqRP5jA2ECNqrl30UYEG0fA')
+client.run('token')
