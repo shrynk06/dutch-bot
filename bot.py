@@ -59,4 +59,4 @@ async def e(ctx,*,m):
     await ctx.send(embed=Msgembed)
   except:
     await ctx.send("Ik begrijp het niet. Probeer het a.u.b. opnieuw")
-bot.run("Nzc3MTA4NTAxOTM5NzQ4ODY2.X6-osA.y7dvDqRP5jA2ECNqrl30UYEG0fA")
+bot.run("token")
