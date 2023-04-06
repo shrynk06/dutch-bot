@@ -20,8 +20,6 @@ async def say(ctx, word):
 async def help(ctx):
   embed = discord.Embed(title="Welcome!",
                         color=discord.Color.green())
-  embed.set_image(
-    url='https://cdn.discordapp.com/attachments/778977927345733702/778978010891681812/Opera_Snapshot_2020-05-19_110825_www.youtube.com.png')
 
   embed.add_field(name="d.d", value="Converts message from English to Dutch", inline=False)
   embed.add_field(name="d.e", value="Converteert bericht van Nederlands naar Engels", inline=False)
