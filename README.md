@@ -1,5 +1,5 @@
 # dutch-bot
-discord bot converts english to dutch and other way around
+a discord bot converts english to dutch and other way around. uses the google translate API.
 
 use d.help
 
